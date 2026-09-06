@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://alokkr00.github.io/Portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%C2%B7+Data+Analyst;High-Throughput+ETL+Pipelines;Quantitative+Trading+Systems;AI-Powered+Analytical+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%C2%B7+Data+Analyst;High-Throughput+ETL+Pipelines;Quantitative+Trading+Systems;Distributed+Systems+%26+Edge+Nodes;AI-Powered+Analytical+Products" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,10 +17,10 @@
 
 ### 🌐 System Architecture & About Me
 
-I architect **high-throughput data pipelines**, **quantitative paper-trading engines**, and **AI-powered analytical applications**. Rooted in strong fundamentals of **Data Structures & Algorithms (DSA)**, **Python**, and **SQL**, I build resilient data systems prioritizing idempotency, query optimization, and production reliability.
+I architect **high-throughput data pipelines**, **offline-first edge-to-cloud sync engines**, **quantitative paper-trading frameworks**, and **AI-powered analytical products**. Rooted in strong fundamentals of **Data Structures & Algorithms (DSA)**, **Python**, and **SQL**, I build resilient data systems prioritizing idempotency, query optimization, and production reliability.
 
-- 🔭 **Current Focus:** Large-scale ETL data ingestion pipelines & algorithmic risk modeling.
-- ⚡ **Flagship Systems:** [H.A.T.S. Quantitative Engine](https://github.com/Alokkr00/HATS-Trading-Engine), [GatherCraft Copilot](https://github.com/Alokkr00/GatherCraft), and [Cybersecurity Anomaly Analytics](https://github.com/Alokkr00/network-intrusion-detection-analysis).
+- 🔭 **Current Focus:** Large-scale ETL data ingestion pipelines, vector clock event replication, & algorithmic risk modeling.
+- ⚡ **Flagship Systems:** [H.A.T.S. Quantitative Engine](https://github.com/Alokkr00/HATS-Trading-Engine), [Restaurant Chain POS & Sync Engine](https://github.com/Alokkr00/Restaurant-Chain-management-System), [GatherCraft Copilot](https://github.com/Alokkr00/GatherCraft), and [Cybersecurity Anomaly Analytics](https://github.com/Alokkr00/network-intrusion-detection-analysis).
 - 💬 **Ask Me About:** Data Engineering, PostgreSQL/SQLite schema design, FastAPI backends, and Predictive Modeling.
 
 ---
@@ -51,20 +51,28 @@ I architect **high-throughput data pipelines**, **quantitative paper-trading eng
       <p>🔗 <a href="https://github.com/Alokkr00/HATS-Trading-Engine">View Repository →</a></p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Alokkr00/Restaurant-Chain-management-System">🍽️ Restaurant Chain Edge POS & Sync Engine</a></h3>
+      <p>Offline-first, multi-outlet restaurant management platform featuring embedded SQLite WAL mode for zero-downtime offline ordering, an asynchronous vector clock sync queue to Cloud PostgreSQL, and a multi-level recipe Bill of Materials (BOM) engine.</p>
+      <p><b>Tech:</b> <code>TypeScript</code> <code>Turborepo</code> <code>Node.js Edge</code> <code>SQLite WAL</code> <code>AWS PostgreSQL</code></p>
+      <p>🔗 <a href="https://github.com/Alokkr00/Restaurant-Chain-management-System">View Repository →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/Alokkr00/GatherCraft">🎉 GatherCraft AI Copilot</a></h3>
       <p>Purpose-driven gathering platform that turns ambiguous event concepts into structured timelines with Gemini AI refinement, live copilot, and RSVP magic links.</p>
       <p><b>Tech:</b> <code>Next.js 14</code> <code>Gemini API</code> <code>TypeScript</code> <code>Tailwind</code></p>
       <p>🔗 <a href="https://gather-craft.vercel.app">Live App ↗</a> · <a href="https://github.com/Alokkr00/GatherCraft">View Repository →</a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/Alokkr00/network-intrusion-detection-analysis">🔒 Network Intrusion Analytics</a></h3>
       <p>Exploratory data analysis and machine learning classification pipeline detecting anomalous network traffic patterns and cyber threats.</p>
       <p><b>Tech:</b> <code>Python</code> <code>Pandas</code> <code>Scikit-learn</code> <code>Jupyter</code></p>
       <p>🔗 <a href="https://github.com/Alokkr00/network-intrusion-detection-analysis">View Repository →</a></p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3 align="center"><a href="https://github.com/Alokkr00/Multi_platform_content_uploader">🤖 Content Publishing Pipeline</a></h3>
       <p>Automated multi-channel video and social media asset publishing engine with scheduled queue management and REST API integrations.</p>
       <p><b>Tech:</b> <code>Python</code> <code>FastAPI</code> <code>REST APIs</code> <code>SQLite</code></p>
