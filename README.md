@@ -10,7 +10,7 @@
   <a href="https://alokkr00.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live%20Portfolio-alokkr00.github.io-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=080B11" alt="Live Portfolio" /></a>
   <a href="https://www.linkedin.com/in/alok-kumar-18914b176/"><img src="https://img.shields.io/badge/LinkedIn-Alok%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kishorealok99@gmail.com"><img src="https://img.shields.io/badge/Email-kishorealok99@gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://alokkr00.github.io/Portfolio/AlokResume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-818CF8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+  <a href="https://alokkr00.github.io/Portfolio/Alok-Kumar-Data-Engineer-Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-818CF8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
 </p>
 
 ---
@@ -67,7 +67,7 @@ I architect **high-throughput data pipelines**, **enterprise MLOps engines**, **
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/Alokkr00/Student-management-system">🎓 Academic Student Management System (SMS)</a></h3>
       <p>Collegiate administration platform built with Django 4.2 LTS featuring multi-tier RBAC (HOD, Faculty, Student), automated 10-point letter grading and credit-weighted CGPA calculations, dual-action excused medical leave crediting, and anti-IDOR security.</p>
-      <p><b>Tech:</b> <code>Django 4.2 LTS</code> <code>Python 3.12</code> <code>Bootstrap 5</code> <code>SQLite / PostgreSQL</code> <code>19/19 Tests</code></p>
+      <p><b>Tech:</b> <code>Django 4.2 LTS</code> <code>Python 3.12</code> <code>Bootstrap 5</code> <code>SQLite / PostgreSQL</code> <code>23/23 Tests Passing</code></p>
       <p>🔗 <a href="https://github.com/Alokkr00/Student-management-system">View Repository →</a></p>
     </td>
   </tr>
@@ -92,8 +92,8 @@ I architect **high-throughput data pipelines**, **enterprise MLOps engines**, **
 ### 📊 GitHub Telemetry & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alokkr00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B11&title_color=00E5FF&icon_color=38BDF8&text_color=CBD5E1" alt="Alok's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alokkr00&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B11&title_color=00E5FF&text_color=CBD5E1" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Alokkr00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B11&title_color=00E5FF&icon_color=38BDF8&text_color=CBD5E1" alt="Alok's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Alokkr00&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B11&title_color=00E5FF&text_color=CBD5E1" alt="Top Languages" />
 </div>
 
 ---
