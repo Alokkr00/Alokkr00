@@ -19,8 +19,10 @@
 
 I architect **high-throughput data pipelines**, **enterprise MLOps engines**, **offline-first hybrid edge systems**, and **quantitative trading frameworks**. Rooted in strong fundamentals of **Data Structures & Algorithms (DSA)**, **Python**, and **SQL**, I build software prioritizing idempotency, query optimization, and production reliability.
 
-- 🔭 **Current Focus:** Large-scale ETL orchestration (Apache Airflow & dbt), automated ML governance gates ($\Delta	ext{AUC}$ & PSI stability), and CQRS hybrid architectures.
-- ⚡ **Flagship Systems:** [Customer Churn MLOps Pipeline](https://github.com/Alokkr00/Customer-Churn-Pipeline), [H.A.T.S. Quantitative Engine](https://github.com/Alokkr00/HATS-Trading-Engine), [Restaurant Management Hybrid Edge Engine](https://github.com/Alokkr00/Restaurant-Management-system), [Student Management System](https://github.com/Alokkr00/Student-management-system), and [GatherCraft AI](https://github.com/Alokkr00/GatherCraft).
+- 🎓 **Education:** B.Tech in Computer Science & Engineering (2024)
+- 📍 **Location:** Based in India (IST) · Open to Remote Data Engineering & Analyst roles worldwide
+- 🔭 **Current Focus:** Large-scale ETL orchestration (Apache Airflow & dbt), automated ML governance gates (ΔAUC ≥ +0.01 & PSI ≤ 0.10 stability), and CQRS hybrid architectures.
+- ⚡ **Flagship Systems:** [Customer Churn MLOps Pipeline](https://github.com/Alokkr00/Customer-Churn-Pipeline), [H.A.T.S. Quantitative Engine](https://github.com/Alokkr00/HATS-Trading-Engine), [Restaurant Management Hybrid Edge Engine](https://github.com/Alokkr00/Restaurant-Management-system), [Student Management System](https://github.com/Alokkr00/Student-management-system), [GatherCraft AI](https://github.com/Alokkr00/GatherCraft), and [Network Intrusion Analytics](https://github.com/Alokkr00/network-intrusion-detection-analysis).
 - 💬 **Ask Me About:** Data Engineering, Airflow DAGs, dbt feature marts, PostgreSQL schema optimization, and Machine Learning Systems.
 
 ---
@@ -54,7 +56,7 @@ I architect **high-throughput data pipelines**, **enterprise MLOps engines**, **
       <h3 align="center"><a href="https://github.com/Alokkr00/HATS-Trading-Engine">📈 H.A.T.S. Quantitative Engine</a></h3>
       <p>Modular quantitative trading framework for automated paper-trading via Alpaca API with a 15-scenario portfolio stress grid, parametric 60-day Covariance VaR (95%), and immutable SQLite database audit triggers.</p>
       <p><b>Tech:</b> <code>Python 3.11</code> <code>FastAPI</code> <code>Alpaca API</code> <code>TIMS Stress Grid</code> <code>SQLite Triggers</code></p>
-      <p>🔗 <a href="https://github.com/Alokkr00/HATS-Trading-Engine">View Repository →</a></p>
+      <p>🔗 <a href="https://hats-ae7x.onrender.com/docs">Live API Docs ↗</a> · <a href="https://github.com/Alokkr00/HATS-Trading-Engine">View Repository →</a></p>
     </td>
   </tr>
   <tr>
