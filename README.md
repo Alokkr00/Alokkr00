@@ -10,7 +10,7 @@
   <a href="https://alokkr00.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live%20Portfolio-alokkr00.github.io-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=080B11" alt="Live Portfolio" /></a>
   <a href="https://www.linkedin.com/in/alok-kumar-18914b176/"><img src="https://img.shields.io/badge/LinkedIn-Alok%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kishorealok99@gmail.com"><img src="https://img.shields.io/badge/Email-kishorealok99@gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://alokkr00.github.io/Portfolio/Alok-Kumar-Data-Engineer-Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-818CF8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+  <a href="https://alokkr00.github.io/Portfolio/Alok-Kumar-Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-818CF8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
 </p>
 
 ---
